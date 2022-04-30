@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>xi_mu</title>
   
-  
+  <subtitle>xi_mu</subtitle>
   <link href="http://aichitangdemao.github.io/atom.xml" rel="self"/>
   
   <link href="http://aichitangdemao.github.io/"/>
@@ -10,7 +10,7 @@
   <id>http://aichitangdemao.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>析木</name>
     
   </author>
   

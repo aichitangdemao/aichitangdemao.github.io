@@ -6,7 +6,7 @@
   <link href="http://aichitangdemao.github.io/atom.xml" rel="self"/>
   
   <link href="http://aichitangdemao.github.io/"/>
-  <updated>2022-04-29T09:02:01.840Z</updated>
+  <updated>2022-05-02T09:33:02.413Z</updated>
   <id>http://aichitangdemao.github.io/</id>
   
   <author>
@@ -17,23 +17,26 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://aichitangdemao.github.io/2022/04/30/hello-world/"/>
-    <id>http://aichitangdemao.github.io/2022/04/30/hello-world/</id>
-    <published>2022-04-30T10:50:58.688Z</published>
-    <updated>2022-04-29T09:02:01.840Z</updated>
+    <title>小白如何搭建一个人博客</title>
+    <link href="http://aichitangdemao.github.io/2022/05/02/%E5%B0%8F%E7%99%BD%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://aichitangdemao.github.io/2022/05/02/%E5%B0%8F%E7%99%BD%E5%A6%82%E4%BD%95%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2022-05-02T08:59:05.000Z</published>
+    <updated>2022-05-02T09:33:02.413Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;前言&quot;&gt;&lt;a href=&quot;#前言&quot; class=&quot;headerlink&quot; title=&quot;前言&quot;&gt;&lt;/a&gt;前言&lt;/h1&gt;&lt;p&gt;搭建一个个人博客其实也不是很难，只要敢于尝试就会成功。&lt;/p&gt;
+&lt;h1 id=&quot;搭建所需要的工具&quot;&gt;&lt;a href=&quot;#搭建所需要的工具&quot;</summary>
         
       
     
     
     
+    
+    <category term="web" scheme="http://aichitangdemao.github.io/tags/web/"/>
     
   </entry>
   
